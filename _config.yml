@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: https://i.pinimg.com/originals/71/fd/08/71fd08f639925d8898cba0f1c8e58cbb.jpg
+picture: i.pinimg.com/originals/71/fd/08/71fd08f639925d8898cba0f1c8e58cbb.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -57,7 +57,7 @@ authors:
     name: Nguyen Quang Huy
     bio: Hello World
     external-image: false
-    picture: https://i.pinimg.com/originals/71/fd/08/71fd08f639925d8898cba0f1c8e58cbb.jpg
+    picture: i.pinimg.com/originals/71/fd/08/71fd08f639925d8898cba0f1c8e58cbb.jpg
     twitter: tran_nguyenhan
   jamesfoster:
     name: James Foster
