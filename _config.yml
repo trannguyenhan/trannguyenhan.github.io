@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Nguyen Quang Huy
+bio: Hello World !
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: https://i.pinimg.com/originals/71/fd/08/71fd08f639925d8898cba0f1c8e58cbb.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://trannguyenhan.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,31 +34,31 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: 
+twitter: tran_nguyenhan
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: trannguyenhan
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: 
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: trannguyenhan01092000@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Nguyen Quang Huy
+    bio: Hello World
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: https://i.pinimg.com/originals/71/fd/08/71fd08f639925d8898cba0f1c8e58cbb.jpg
+    twitter: tran_nguyenhan
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
