@@ -19,7 +19,7 @@ layout: page
 
 <ul>
 	<li>Interns Java & Bigdata VC Corp from 11/2020 to 06/2021</li>
-	<li>some great exercises in school subjects</li>
+	<li>Some great exercises in school subjects</li>
 </ul>
 
 <h2>Project</h2>
