@@ -48,11 +48,19 @@
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
-                    <a class="link" href="https://demanejar.github.io/" target="_blank">Blog</a>
+                    <a class="link" href="https://trannguyenhan.github.io/vblogs/" target="_blank">Blog</a>
                 </li>
             {% endif %}
         {% endif %}
-
+        
+        {% if site.about == true %}
+            {% if page.title != "About" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/about">About</a>
+                </li>
+            {% endif %}
+        {% endif %}
+        
         {% if site.projects == true %}
             {% if page.title != "Projects" %}
                 <li class="item">
