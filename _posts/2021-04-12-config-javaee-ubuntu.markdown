@@ -1,11 +1,17 @@
 ---
-title: Cài đặt và cấu hình Java EE cho Eclipse
+title: "Cài đặt và cấu hình Java EE cho Eclipse"
+layout: post
+date: 2021-04-25 20:52
+image: 
+headerImage: false
+tag:
+- Java EE
+- Java
+- Java Web
+- Eclipse
+category: share
 author: trannguyenhan
-date: 2021-04-11 20:52:00 +0700
-categories: [blog, share]
-tags: [Jave EE, Java, Java web, Eclipse]
-math: true
-mermaid: true
+description: 
 ---
 *Java EE giúp tạo các trang web. Java EE là một API vì thế để dùng Java EE bạn cần một máy chủ tương thích với Java EE như là Glassfish được phát triển bởi Oracle hay là Tomcat,… Bạn chỉ việc thêm nó vào thư viện và sử dụng như bình thường.* <br /><br />
 Bài viết này mình sẽ hướng dẫn mọi người cài đặt Java EE trên Eclipse với máy chủ Tomcat. <br /><br />
