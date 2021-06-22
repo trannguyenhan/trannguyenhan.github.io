@@ -2,7 +2,7 @@
 title: Cài đặt SQL Server trên Ubuntu
 author: trannguyenhan
 date: 2021-04-11 20:52:00 +0700
-categories: [Blogging, Share]
+categories: [blog, share]
 tags: [ms sql, sql server, ubuntu]
 math: true
 mermaid: true
