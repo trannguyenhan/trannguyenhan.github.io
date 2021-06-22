@@ -5,10 +5,10 @@ date: 2021-04-18 20:52
 image: 
 headerImage: false
 tag:
-- JavaFX
-- Java
-- OpenJFX
-- Java UI
+- javafx
+- java
+- openjfx
+- java ui
 category: share
 author: trannguyenhan
 description: 
