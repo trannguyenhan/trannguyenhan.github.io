@@ -2,7 +2,7 @@
 title: Cài đặt, cấu hình và sửa một số lỗi khi cài đặt Javafx
 author: trannguyenhan
 date: 2021-04-11 20:52:00 +0700
-categories: [Blogging, Share]
+categories: [blog, share]
 tags: [Java FX, Java, OpenJFX, Java UI]
 math: true
 mermaid: true
