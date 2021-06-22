@@ -2,7 +2,7 @@
 title: Server side redering và client side redering
 author: trannguyenhan
 date: 2021-04-11 20:52:00 +0700
-categories: [Blogging, Share]
+categories: [blog, share]
 tags: [web developer, server side, client side]
 math: true
 mermaid: true
