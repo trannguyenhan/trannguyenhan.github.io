@@ -1,11 +1,17 @@
 ---
-title: Cài đặt, cấu hình và sửa một số lỗi khi cài đặt Javafx
+title: "Cài đặt, cấu hình và sửa một số lỗi khi cài đặt Javafx"
+layout: post
+date: 2021-04-18 20:52
+image: 
+headerImage: false
+tag:
+- JavaFX
+- Java
+- OpenJFX
+- Java UI
+category: share
 author: trannguyenhan
-date: 2021-04-11 20:52:00 +0700
-categories: [blog, share]
-tags: [Java FX, Java, OpenJFX, Java UI]
-math: true
-mermaid: true
+description: 
 ---
 *JavaFX là nền tảng để tạo và phân phối các ứng dụng dành cho máy tính để bàn cũng như các ứng dụng RIAs (Rich Internet Applications) có thể chạy trên nhiều thiết bị khác nhau.  JavaFX dự định thay thế hoàn toàn Swing làm thư viện GUI chuẩn cho Java SE. JavaFX hỗ trợ cho các máy tính để bàn và trình duyệt web trên nền tảng Windows, Linux và macOS. Bài này mình sẽ hướng dẫn các bạn cài đặt và sửa một số lỗi khi cấu hình javafx trên eclipse.* <br />
 ## Với Project bình thường
