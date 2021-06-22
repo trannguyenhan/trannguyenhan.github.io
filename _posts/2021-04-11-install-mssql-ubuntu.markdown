@@ -1,11 +1,16 @@
 ---
-title: Cài đặt SQL Server trên Ubuntu
+title: "Cài đặt SQL Server trên Ubuntu"
+layout: post
+date: 2021-04-11 20:52
+image: 
+headerImage: false
+tag:
+- ms sql
+- sql server
+- ubuntu
+category: share
 author: trannguyenhan
-date: 2021-04-11 20:52:00 +0700
-categories: [blog, share]
-tags: [ms sql, sql server, ubuntu]
-math: true
-mermaid: true
+description: 
 ---
 
 *Một cơ sở dữ liệu cần phải có 1 server và 1 công cụ giúp kết nối và truy vấn dữ liệu từ server, ngày xưa người ta thường dùng các cửa sổ dòng lệnh (command line), hiện tại đã có các công cụ khác trực quan hơn để giúp việc truy vấn dữ liệu một cách dễ dàng hơn thông qua các cửa sổ UI. Microsoft SQL Server là cơ sở dữ liệu rất nổi tiếng của Microsoft. Nó được sử dụng rộng rãi trong trường học, doanh nghiệp vì dễ cài đặt và dễ sử dụng. Việc cài đặt Microsoft SQL Server trên Windows là khá dễ dàng . Bạn chỉ cần tải về cài đặt SQL Server Management Studio (SSMS) là sẽ được tự động cài đặt những thứ cần thiết . Tuy nhiên, trên Ubuntu muốn sử dụng SQL Server lại phức tạp hơn một tí.*
