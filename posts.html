@@ -1,4 +1,4 @@
----
+<!-- ---
 # blog page must be named index.html and in its own folder to support pagination
 # https://jekyllrb.com/docs/pagination/
 layout: page
@@ -28,4 +28,56 @@ pagination:
 			{% endif %}
 		{% endfor %}
 	{% endif %}
+</section>
+ -->
+
+---
+# blog page must be named index.html and in its own folder to support pagination
+# https://jekyllrb.com/docs/pagination/
+layout: page
+title: Blog
+pagination:
+  enabled: true
+---
+<section class="list">
+<!-- 	{% if site.posts.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% elsif site.pagination.enabled %}
+		{% for post in paginator.posts %}
+			{% if post.category == 'blog' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		{% include pagination.html%}
+	{% else %}
+		{% for post in site.posts %}
+			{% if post.category == 'blog' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	{% endif %} -->
+  
+  
+<div class="item ">
+    <a class="url" href="https://viblo.asia/u/trannguyenhan" target="_blank">
+        <aside class="date">Goto</aside>
+        <h3 class="title">Viblo</h3>
+    </a>
+</div>
+<div class="item ">
+  <a class="url" href="https://demanejar.github.io/" target="_blank">
+      <aside class="date">Goto</aside>
+      <h3 class="title">Demanejar team blogs</h3>
+  </a>
+</div>
+<div class="item ">
+  <a class="url" href="https://trannguyenhan.github.io/blogs/" target="_blank">
+      <aside class="date">Goto</aside>
+      <h3 class="title">Github pages blog</h3>
+  </a>
+</div>
 </section>
