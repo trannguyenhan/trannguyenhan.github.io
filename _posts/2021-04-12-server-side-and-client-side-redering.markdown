@@ -1,13 +1,17 @@
 ---
-title: Server side redering và client side redering
+title: "Server side redering và client side redering"
+layout: post
+date: 2021-05-01 20:52
+image: 
+headerImage: false
+tag:
+- web developer
+- server side
+- client side
+category: share
 author: trannguyenhan
-date: 2021-04-11 20:52:00 +0700
-categories: [blog, share]
-tags: [web developer, server side, client side]
-math: true
-mermaid: true
+description: 
 ---
-
 # Server side redering và client side redering là gì?
 - Server side redering là một cơ chế mà đã xuất hiện từ rất lâu, có lẽ là từ khi web ra đời mà ở đây phần lớn những xử lý logic từ nhỏ cho tới lớn đều được đảm nhận và thực hiện bởi server khi người dùng gửi yêu cầu tới website, sau đó server sẽ gửi lại cho máy khách những mã HTML (hay cả là những mã js và css) để hiển thị.
 - Client side redering là một công nghệ mới hơn, nó sinh ra nhằm giảm bớt gánh nặng ở phía server. Với ý tưởng rằng một số logic đơn giản hay là chuyển trang thì sẽ do máy khách xử lý còn những logic phức tạp hơn thì vẫn do server đảm nhiệm.
