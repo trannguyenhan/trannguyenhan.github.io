@@ -13,7 +13,7 @@
     |
     <b><a href="README.md#settings">Settings</a></b>
     |
-    <b><a href="README.md#how-to">How to</a></b>
+    <b><a href="README.md#how-to">How to use</a></b>
 </p>
 
 <p align="center">
