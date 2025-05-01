@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
+    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://trannguyenhan.github.io/">Demo</a></h2>
 </p>
 
 <p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
@@ -64,3 +64,7 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 ## License
 
 [MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
+
+## Refer 
+
+- [https://github.com/sergiokopplin/indigo](https://github.com/sergiokopplin/indigo)

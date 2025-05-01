@@ -1,4 +1,4 @@
----
+<!-- ---
 title: About
 layout: page
 ---
@@ -33,4 +33,4 @@ layout: page
   <li><a href="https://github.com/trannguyenhan/calendar-queue" target="_blank">Calendar queue with C</a></li>
   <li><a href="https://github.com/tranngocphien/quan-ly-thu-tien" target="_blank">money management with Java app desktop</a></li>
   <li><a href="https://github.com/trannguyenhan?tab=repositories" target="_blank">And more...</a></li>
-</ul>
+</ul> -->
